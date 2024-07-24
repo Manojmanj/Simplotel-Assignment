@@ -218,7 +218,10 @@ body{
     }
     .container-left .image3{
         padding-top: 30px;
-        width: 30%;
+        width: 32%;
+    }
+    .container-left .image3 img{
+        padding: 0% 12%;
     }
 
     .container-right{
